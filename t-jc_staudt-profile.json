@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T23:00:43Z",
+  "IdClaims": [
+    {
+      "Claim": "t:jc_staudt"
+    },
+    {
+      "Claim": "mdon:@jc@social.librem.one"
+    },
+    {
+      "Claim": "gh:jcstaudt"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "c23faac5b02bb49a2a7c189f",
+    "Timestamp": "2023-04-05T23:07:27Z",
+    "Signature": "3a4ea55c91d174ac8c750a19b831ce5d4d22b436f98ca3d12275dbbfef62c787af9bb6f3f212325602553b8cb14d82ea282490e697b632efcf3470d93db61253e7f8b2796bb70946b053222c641f6ab43e2ee258f76501715f6d3049b3e3cab654bc86203b9af8673c85caac741e54384ef11748e4393bfef8bf26f69e3bf4266a75bfdcaa23863815f8fecea0fc620213e8c28345a9516c3e3e16141fb838b52d6310fca2890f21310316a66f89b816ace326813b05ecf6edda0d80ddeccd80a69b7259a35b34c617f741331ecdbd384ec2aa9966872cc70d131906e35cdd29af7df43322e5880e9482e769dfc28a046357d4a0f984c9991afa253061cce445"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "b99b839833d4adf071582b83d81abc3b6bd6f13e00c11a1603d5acc63ab3ec7f",
+  "ContentToHash": "v1|gh:jcstaudt,mdon:@jc@social.librem.one,med:no-account,post:no-account,spout:no-account,ss:no-account,t:jc_staudt|2023-04-05T23:00:43Z"
+}
